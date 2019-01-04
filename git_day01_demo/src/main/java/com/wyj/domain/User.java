@@ -11,4 +11,5 @@ package com.wyj.domain;
 public class User {
     private  Integer id;
     private  String username;
+    private  String address;
 }
