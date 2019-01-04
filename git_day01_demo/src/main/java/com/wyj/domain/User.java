@@ -13,5 +13,6 @@ public class User {
     private  String username;
     private  String address;
     private  String password;
+    private  String telphone;//后端开发
     private  String email;//前端人员
 }
