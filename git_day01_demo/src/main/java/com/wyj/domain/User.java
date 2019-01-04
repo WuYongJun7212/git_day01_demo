@@ -13,4 +13,5 @@ public class User {
     private  String username;
     private  String address;
     private  String password;
+    private  String email;//前端人员
 }
